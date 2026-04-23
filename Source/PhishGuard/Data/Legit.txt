@@ -1,0 +1,10 @@
+Subject: Meeting Reminder
+
+From: hr@company.com
+
+Hi,
+
+This is a reminder for your scheduled meeting tomorrow at 10 AM.
+
+Thanks,
+HR Team

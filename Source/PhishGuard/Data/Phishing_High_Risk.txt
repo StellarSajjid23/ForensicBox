@@ -1,0 +1,17 @@
+Subject: URGENT: Your Account Will Be Suspended
+
+From: security@micr0soft-support.xyz
+Reply-To: attacker@evil-domain.ru
+Return-Path: bounce@fake-mail.cn
+
+Dear User,
+
+We detected unusual activity on your account. You must verify your identity immediately.
+
+Click below to secure your account:
+http://secure-login-update.xyz/login
+
+Failure to act will result in account suspension.
+
+Regards,
+Microsoft Security Team

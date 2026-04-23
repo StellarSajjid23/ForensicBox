@@ -1,0 +1,14 @@
+From: alerts@bank-secure.xyz
+Reply-To: fraud@bank-alerts.ru
+Subject: Final Warning - Verify Account
+
+Authentication-Results: spf=fail dkim=fail dmarc=fail
+
+Dear Customer,
+
+Final warning: your account will be closed.
+
+Verify now:
+http://bank-login-secure.xyz/auth
+
+Attachment: invoice.zip

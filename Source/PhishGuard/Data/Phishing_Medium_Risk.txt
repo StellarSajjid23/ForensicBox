@@ -1,0 +1,11 @@
+Subject: Payment Failed - Action Required
+
+From: billing@paypal.com
+Reply-To: billing-support@paypal-alerts.xyz
+
+Dear Customer,
+
+Your recent payment failed. Please update your billing details:
+https://paypal-secure-update.xyz/verify
+
+Thank you.
