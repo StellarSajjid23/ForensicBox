@@ -1,15 +1,23 @@
-# ForensicBox
+# 🛡️ ForensicBox
 
-A Python-based Security Analysis and Digital Forensics Toolkit for phishing detection, file integrity monitoring, credential security, encryption, hashing, and hidden data analysis.
+> A Professional Python-Based Cybersecurity Investigation and Digital Forensics Toolkit
 
-## Features
+ForensicBox is a modular security toolkit developed for cybersecurity students, SOC analysts, and digital forensics learners.  
+This project combines multiple practical security analysis tools into one professional-grade Python repository.
 
-- Phishing URL and email indicator analysis
-- File hashing and integrity verification
-- Password and credential security checks
-- Encryption and decryption utilities
-- Steganography and hidden data analysis
-- Beginner-friendly cybersecurity toolkit structure
+---
+
+## 🚀 Core Capabilities
+
+✅ Encryption / Decryption Utilities  
+✅ File Hashing & Integrity Verification  
+✅ Phishing URL Detection  
+✅ Suspicious Link Analysis  
+✅ Password & Credential Security Logic  
+✅ Steganography & Hidden Data Investigation  
+✅ Modular Forensic Automation Scripts
+
+---
 
 ## Project Modules
 
@@ -20,15 +28,19 @@ A Python-based Security Analysis and Digital Forensics Toolkit for phishing dete
 | PhishGuard | Phishing link and suspicious indicator analysis |
 | Stegano | Hidden data and steganography analysis |
 
-## Folder Structure
+
+## 📂 Project Structure
 
 ```text
 ForensicBox/
-├── Source/
-│   ├── CipherForge/
-│   ├── HashGuard/
-│   ├── PhishGuard/
-│   └── Stegano/
-├── Screenshots/
+│
+├── README.md
 ├── Requirements.txt
-└── README.md
+├── Screenshots/
+│
+└── Source/
+    ├── README.md
+    ├── CipherForge/
+    ├── HashGuard/
+    ├── PhishGuard/
+    └── Stegano/
