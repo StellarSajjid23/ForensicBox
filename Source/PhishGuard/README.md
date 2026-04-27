@@ -1,9 +1,3 @@
-
----
-
-# ✅ 2. `PhishGuard/README.md`
-
-```md
 # PhishGuard 🎣
 
 PhishGuard is the phishing URL detection and suspicious web link analysis module of ForensicBox.
