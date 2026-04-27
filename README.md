@@ -8,8 +8,8 @@
 
 > A Professional Python-Based Cybersecurity Investigation and Digital Forensics Toolkit
 
-ForensicBox is a modular security toolkit developed for cybersecurity students, SOC analysts, and digital forensics learners.  
-This project combines multiple practical security analysis tools into one professional-grade Python repository.
+ForensicBox is a Modular Security Toolkit Developed for Cybersecurity Students, SOC Analysts, and Digital Forensics Learners.  
+This Project Combines Multiple Practical Security Analysis Tools into One Professional-Grade Python Repository.
 
 ---
 
@@ -29,11 +29,12 @@ This project combines multiple practical security analysis tools into one profes
 
 | Module | Purpose |
 |---|---|
-| CipherForge | Encryption, decryption, and cipher utilities |
-| HashGuard | File hashing and integrity monitoring |
-| PhishGuard | Phishing link and suspicious indicator analysis |
-| Stegano | Hidden data and steganography analysis |
+| CipherForge | Encryption, Decryption, and Cipher Utilities |
+| HashGuard | File Hashing and Integrity Monitoring |
+| PhishGuard | Phishing Link and Suspicious Indicator Analysis |
+| Stegano | Hidden Data and Steganography Analysis |
 
+---
 
 ## 📂 Project Structure:
 
