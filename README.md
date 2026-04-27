@@ -1,4 +1,10 @@
-# 🛡️ ForensicBox
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StellarSajjid23/ReconSpecter/main/ReconSpecter_Banner.svg" />
+</p>
+
+---
+
+# 🛡️ ForensicBox:
 
 > A Professional Python-Based Cybersecurity Investigation and Digital Forensics Toolkit
 
@@ -7,7 +13,7 @@ This project combines multiple practical security analysis tools into one profes
 
 ---
 
-## 🚀 Core Capabilities
+## 🚀 Core Capabilities:
 
 ✅ Encryption / Decryption Utilities  
 ✅ File Hashing & Integrity Verification  
@@ -19,7 +25,7 @@ This project combines multiple practical security analysis tools into one profes
 
 ---
 
-## Project Modules
+## Project Modules:
 
 | Module | Purpose |
 |---|---|
@@ -29,7 +35,7 @@ This project combines multiple practical security analysis tools into one profes
 | Stegano | Hidden data and steganography analysis |
 
 
-## 📂 Project Structure
+## 📂 Project Structure:
 
 ```text
 ForensicBox/
