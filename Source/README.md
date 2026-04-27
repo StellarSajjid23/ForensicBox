@@ -1,8 +1,8 @@
-# Source
+# Source:
 
 This folder contains the main Python source code for the ForensicBox cybersecurity toolkit.
 
-## Included Security Modules
+## Included Security Modules:
 
 | Module | Description |
 |---|---|
@@ -13,7 +13,7 @@ This folder contains the main Python source code for the ForensicBox cybersecuri
 
 ---
 
-## Module Execution
+## Module Execution:
 
 Each module can be executed independently from this folder.
 
