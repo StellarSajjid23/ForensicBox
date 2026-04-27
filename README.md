@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/StellarSajjid23/ReconSpecter/main/ReconSpecter_Banner.svg" />
+  <img src="https://raw.githubusercontent.com/StellarSajjid23/ForensicBox/main/ForensicBox_Banner.svg" />
 </p>
 
 ---
