@@ -1,26 +1,22 @@
-
----
-
-## 2. `Source/README.md`
-
-```md
 # Source
 
 This folder contains the main Python source code for the ForensicBox cybersecurity toolkit.
 
-## Modules
+## Included Security Modules
 
 | Module | Description |
 |---|---|
 | CipherForge | Encryption and decryption utilities |
 | HashGuard | File hashing and integrity verification |
 | PhishGuard | Phishing detection and suspicious URL analysis |
-| Stegano | Hidden data and steganography analysis |
+| Stegano | Hidden data and steganography investigation |
 
-## How to Run
+---
 
-From the root project folder:
+## Module Execution
 
+Each module can be executed independently from this folder.
+
+### Run CipherForge
 ```bash
-cd Source
-python main.py
+python CipherForge/cipherforge.py
