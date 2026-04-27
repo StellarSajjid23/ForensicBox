@@ -1,8 +1,6 @@
 # CipherForge 🔐
 
-CipherForge is the cryptographic utility module of the ForensicBox cybersecurity toolkit.
-
-It is designed to demonstrate practical encryption and decryption workflows commonly used in secure communications and cybersecurity investigations.
+CipherForge is the cryptographic utility module of the ForensicBox cybersecurity toolkit. It is designed to demonstrate practical encryption and decryption workflows commonly used in secure communications and cybersecurity investigations.
 
 ---
 
