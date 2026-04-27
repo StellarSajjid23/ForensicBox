@@ -17,6 +17,3 @@ This folder contains the main Python source code for the ForensicBox cybersecuri
 
 Each module can be executed independently from this folder.
 
-### Run CipherForge
-```bash
-python CipherForge/cipherforge.py
