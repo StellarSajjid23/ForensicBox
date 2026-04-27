@@ -1,8 +1,6 @@
 # Stegano 🕵️
 
-Stegano is the hidden data and steganography forensic analysis module of the ForensicBox toolkit.
-
-It is designed to inspect files for concealed or embedded suspicious content.
+Stegano is the hidden data and steganography forensic analysis module of the ForensicBox toolkit. It is designed to inspect files for concealed or embedded suspicious content.
 
 ---
 
