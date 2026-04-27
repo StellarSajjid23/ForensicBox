@@ -1,31 +1,35 @@
+# CipherForge 🔐
+
+CipherForge is the cryptographic utility module of the ForensicBox cybersecurity toolkit.
+
+It is designed to demonstrate practical encryption and decryption workflows commonly used in secure communications and cybersecurity investigations.
 
 ---
 
-# 3. `/Source/CipherForge/README.md`
+## 🔍 Module Purpose
 
-```md
-# CipherForge
+Cybersecurity analysts often encounter encoded, encrypted, or obfuscated text during:
 
-CipherForge is the cryptographic security module inside ForensicBox.
+- forensic investigations
+- malware analysis
+- credential reviews
+- secure data validation
 
----
-
-## Purpose
-
-This module demonstrates practical encryption and decryption operations used in cybersecurity investigations and secure data handling.
+CipherForge provides Python-based utilities to simulate and understand these cryptographic processes.
 
 ---
 
-## Features
+## ⚙️ Features
 
-- text encryption
-- text decryption
-- basic cipher demonstrations
-- secure encoded data handling
+- Text Encryption
+- Text Decryption
+- Basic Cipher Demonstrations
+- Encoded Data Handling
+- Secure String Transformation
 
 ---
 
-## Run Module
+## ▶️ Run Module
 
 ```bash
 python cipherforge.py
