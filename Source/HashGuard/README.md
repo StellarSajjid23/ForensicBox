@@ -1,8 +1,6 @@
 # HashGuard 🧾
 
-HashGuard is the file hashing and integrity verification module inside the ForensicBox forensic toolkit.
-
-This module is built to validate whether a file has remained unchanged by calculating cryptographic hash values.
+HashGuard is the file hashing and integrity verification module inside the ForensicBox forensic toolkit. This module is built to validate whether a file has remained unchanged by calculating cryptographic hash values.
 
 ---
 
