@@ -1,8 +1,6 @@
 # PhishGuard 🎣
 
-PhishGuard is the phishing URL detection and suspicious web link analysis module of ForensicBox.
-
-It helps identify commonly used phishing indicators inside suspicious URLs and domains.
+PhishGuard is the phishing URL detection and suspicious web link analysis module of ForensicBox. It helps identify commonly used phishing indicators inside suspicious URLs and domains.
 
 ---
 
