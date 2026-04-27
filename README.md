@@ -15,13 +15,13 @@ This project combines multiple practical security analysis tools into one profes
 
 ## 🚀 Core Capabilities:
 
-  ✅ Encryption / Decryption Utilities  
-  ✅ File Hashing & Integrity Verification  
-✅ Phishing URL Detection  
-✅ Suspicious Link Analysis  
-✅ Password & Credential Security Logic  
-✅ Steganography & Hidden Data Investigation  
-✅ Modular Forensic Automation Scripts
+ - ✅ Encryption / Decryption Utilities  
+ - ✅ File Hashing & Integrity Verification  
+ - ✅ Phishing URL Detection  
+ - ✅ Suspicious Link Analysis  
+ - ✅ Password & Credential Security Logic  
+ - ✅ Steganography & Hidden Data Investigation  
+ - ✅ Modular Forensic Automation Scripts
 
 ---
 
