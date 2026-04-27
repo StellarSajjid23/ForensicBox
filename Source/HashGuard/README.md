@@ -39,5 +39,3 @@ HashGuard helps verify:
 
 ```bash
 python hashguard.py
-```bash
-python hashguard.py
