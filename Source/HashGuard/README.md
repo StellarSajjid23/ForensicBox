@@ -1,9 +1,3 @@
-
----
-
-# 2. `HashGuard/README.md`
-
-```md
 # HashGuard 🧾
 
 HashGuard is the file hashing and integrity verification module inside the ForensicBox forensic toolkit.
@@ -43,5 +37,7 @@ HashGuard helps verify:
 
 ## ▶️ Run Module
 
+```bash
+python hashguard.py
 ```bash
 python hashguard.py
